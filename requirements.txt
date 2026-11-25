@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+pandas 
+pytest 
+=======
+pandas
+pytest
+>>>>>>> 5670f5a (Pipeline de nettoyage des ventes)
